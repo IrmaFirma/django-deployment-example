@@ -25,7 +25,7 @@ SECRET_KEY = '%svbqjsm%9n8m4en9s(dk^@q+(^+5%d2v1f%zt)x-6d0wzs!g&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'firmapindo.pythonanywhere.com']
 
 
 # Application definition
